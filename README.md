@@ -2,7 +2,7 @@ Hi there,
 
 happy to see you here!
 
-I am a front-end developer. I love programming, music and painting and occasionally writing. 
+I am a front-end developer. I love programming, music, painting and occasionally writing. 
 
 <b>About Me</b>
  
