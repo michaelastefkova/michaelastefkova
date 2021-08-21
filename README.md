@@ -8,4 +8,4 @@ I am a front-end developer. I love programming, music, painting and occasionally
  
 👩🏻‍💻I am currently doing a research related to sports trading since November 2020, using data science techniques;
 
-🚀I am currently mastering Angular and learning Bootstrap;
+🚀I am mastering Angular and learning Bootstrap;
